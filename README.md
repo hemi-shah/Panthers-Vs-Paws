@@ -10,8 +10,8 @@ An interactive tic-tac-toe game with multiple player modes.
 
 ## Project Description
 This project demonstrates my knowledge of game design and development using Unity in C#. 
-The game, "Panths Vs Paws," involves multiple player modes where the player must strategically win by placing tokens on
-the interactive grid.
+The game, "Panthers Vs Paws," involves multiple player modes where the player must strategically win by placing tokens on
+the interactive grid. A player wins when the same token is placed in a row, column, or both ways diagonally.
    
 ## Game Features
 - Token Placement: Allows the user to place a token 2D element on the interactive grid.
